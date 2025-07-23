@@ -36,7 +36,20 @@ El análisis incluye:
 
 📦 Productos más y menos vendidos
 
-📊 Visualizaciones interactivas para comparar variables clave
+
+## 📊 Visualizaciones del análisis
+
+### 💰 Facturación total por tienda
+
+![Facturación por tienda](img/facturacion-tienda.png)
+
+### 💳 Distribución de métodos de pago
+
+![Métodos de pago](img/metodos-pago.png)
+
+### 📈 Relación entre precio y calificación
+
+![Precio vs. Calificación](img/precio-vs-calificacion.png)
 
 
 ## ⚙️ Instrucciones para ejecutar el proyecto
